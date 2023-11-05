@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "calhacks-map",
+    "private_key_id": "6ca1dbc433bddaaad0620cee945dd081d6a00c33",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsJR/ixe1KfoJg\nXVkw0J7CkFViAFdylMV+u1Mh5BLgjAzCBr1kXkSVKXKfKNJ7Ec4az+LYeASwC1SH\nzFU+tTkHGmP3jZTYTeWfYT+4JiEVVjPAZUxNVtUUQayr8OeU8CbkyaKZ9O/z2uso\nQttMZZNIIix2lNEywMWjCMcMS+vnrwaMhOrQQT/2c4+TlVOsttSMP0+WfIBruMEa\nJi03XgSSGAEu1KcwMTQ1YDilPubbc2Bw2b09pN/ZP3Am3CJvGcadT9TsHeAmRkBB\n75Yfvv87d3NGE/f6AKq9IHY7VxRMRlQWAfeQr5P2tnorEvLEyBAcR9o83BD1q7PO\nU0ydGDzfAgMBAAECggEAQxxIBYMPIrsWPdY2lsLGGejl+IpUjS11nxYNb0l4mITQ\n1nWFMVNU3mflsSnbgLIszSQddjG39h+8qSJeW0+QN3Yw4coW7IrVyaBClJp8zFIq\nY8e6Cu6erEJ8PB3zUoubRhdbpjSotUMz6SLDVtHErNrxxZr3wZcIlaou21rf0Za0\nJFAmBDiqn/cFHKqHovG2MOj3s94J4d1TVyY6S2Mv56uiJItMR5WZxkIr7D1vXfev\nU3Sf1/2JauKD4UaeW7FLHcr942zw3WyqAe95QPEKEqbIAkd4HVqqUjsGlNpXESkk\n4rm92mLJGA022o9ync3EKMjkP5cO034xwBZ+yuEVuQKBgQDr9R0Xg42FbQCoe6Qv\n3EMyuRR4ZDBHmFsEqGUi6L2a7RED2Gj9h6zzyXLrTGccYrNX2aKuudCGnr1Ol5mr\n/GGNo+E9U6gCOKogUczg25qgd8Vk75orARs/P3heP0v+Azk/tJqvTvGosTwCdUqV\nDro0xv0w4ZwchUN6H9OlJ4NSlwKBgQC6xGlUfutXA6dJB6S0wq0QZttq9akkjTc3\n0/eVWvN7zpBY8Qawt+c1UOtSSFyhwylRfPLhFEVG+SuMMnJQ1K+1KdivRKBysB5G\n9YGg4HZm359Al2EIapFOpR2xSw4RmJnU8Q+A2N+lUKW4CMNrZpBBHlKcpYStHi4C\nDyB2ae9Y+QKBgGVaoYdzK7wvaUP18D3auEa2d5OLPa3TRO2IRAEtxhwhTti/AcI9\noE4Lr0BhTj1ELFNFGftBt8/LqfdzaUAWJfVIerz0DUv++Rzu5jmEOzRInlLQFQH5\n9LFDWznoqITQ76tssbEyEN3sW6GWrlW+wL9g5mszzfH2UFjKCQh9I4y7AoGAcqUA\nVwq1oasvc8fKVd8uZuQMikKT+kjo/U8TKk4zKetpdf818SJiPbsXSGH84psu8MN3\nP6y2vdNT5PJOc8mqtdUjGqtQpjXvz/UCBmPiqlFYq0iBGq531cPLTzpYP3rh6vGy\nZ5A48HxpzWcrtfC2WhKn+Vos8CuXaFIqxiVO89kCgYEAhPqozV0PgqVk4VqaraPL\n786xdako/YnSKXytZ+LMfBbhf1vzJY9r5LxQUytLBUFiYq8H6+EPKAeaoiziKbAC\nK6BbIwlmB3lsXoPAiaXL/83C0lUPr3Mp7IXou/9xBJhwXCWV4Rnx8selUuQ4FLKp\nB3O4flLMpIhELYM/yeUazTM=\n-----END PRIVATE KEY-----\n",
+    "client_email": "my-speech-to-text-sa@calhacks-map.iam.gserviceaccount.com",
+    "client_id": "116854458986364302240",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-speech-to-text-sa%40calhacks-map.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
